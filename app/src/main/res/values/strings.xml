@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Home Assignment SB</string>
+    <string name="user_not_found_message">There is no user with this ID</string>
+    <string name="empty_list_message">User does not have any repos</string>
+</resources>
